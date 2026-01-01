@@ -26,4 +26,3 @@ The project demonstrates how autonomous agents can be orchestrated to plan, reas
 
 ---
 
-## Structure
